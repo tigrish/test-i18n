@@ -1,2 +1,4 @@
---- 
-...
+--- !ruby/hash:ActionController::Parameters
+'0': !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  key: key
+  value: this is the updated value
